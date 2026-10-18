@@ -2,7 +2,7 @@
 
 做一些可爱、轻巧的桌面小工具，也整理制作和自动化方法。
 
-[B站主页](https://space.bilibili.com/1605091088) · [桌宠演示视频](https://www.bilibili.com/video/BV1Pipf6AEQF/)
+[B站主页](https://space.bilibili.com/1605091088) · [桌宠演示视频](https://www.bilibili.com/video/BV1Pipf6AEQF/) · [爱发电主页](https://afdian.com/a/habai)
 
 ## 作品与工具
 
